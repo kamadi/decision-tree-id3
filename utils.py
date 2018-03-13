@@ -1,6 +1,5 @@
 import math
 
-
 def calculate_entropy(positive, negative):
     if positive == negative:
         return 1
@@ -17,3 +16,5 @@ def calculate_entropy(positive, negative):
 
 def calculate_total_entropy(positive, negative, total):
     return ((positive + negative) / total) * calculate_entropy(positive, negative)
+
+

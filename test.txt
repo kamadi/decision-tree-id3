@@ -1,0 +1,3 @@
+0 sunny hot high weak
+0 sunny hot high strong
+1 overcast hot high weak

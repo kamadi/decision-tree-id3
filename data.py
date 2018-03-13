@@ -28,6 +28,7 @@ class InputData:
         return arr
 
 
+
 class Outlook(Enum):
     SUNNY = "sunny"
     OVERCAST = "overcast"
